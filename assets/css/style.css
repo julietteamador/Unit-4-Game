@@ -1,0 +1,20 @@
+.crystals {
+    border: 1px solid green;
+    height:200px ;
+    width: 200px;
+    align-items: center;
+}
+.crystal {
+    display: flex;
+    justify-content: space-around;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+body{
+    background-color: wheat;
+    padding: 2%;
+}

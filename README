@@ -1,0 +1,7 @@
+Create a game with 4 crystals 
+Every crystal should have a random number between 1-100
+Each crystal should equals the total score to win the game if the total number exceeds the winner number you lose the game
+When clicking any of the 4 crystals, it should be adding with the previous result 
+until it equals the total score 
+
+There should be a counter recorder you wins and loses 

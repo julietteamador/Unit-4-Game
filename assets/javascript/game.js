@@ -7,7 +7,7 @@ var reset = function () {
 
     $(".crystals").empty();
 
-
+    
     random_result = Math.floor(Math.random() * 69) + 30;
 
     $("#result").html("Random-result: " + random_result);

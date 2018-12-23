@@ -7,6 +7,7 @@
     background-image: url(../images/31RDW6fVU9L.jpg);
     background-image: url(../images/Amethystemadagascar2.jpg);
     background-image: url(../images/close-up-of-crystal-stone-glowing-in-darkroom-583919173-56f28e5d3df78ce5f83d7284.jpg);
+    background-size: cover;
 }
 .crystal {
     display: flex;

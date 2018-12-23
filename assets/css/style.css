@@ -3,10 +3,15 @@
     height:200px ;
     width: 200px;
     align-items: center;
+    background-image: url(../images/002464.jpg);
+    background-image: url(../images/31RDW6fVU9L.jpg);
+    background-image: url(../images/Amethystemadagascar2.jpg);
+    background-image: url(../images/close-up-of-crystal-stone-glowing-in-darkroom-583919173-56f28e5d3df78ce5f83d7284.jpg);
 }
 .crystal {
     display: flex;
     justify-content: space-around;
+
 }
 h1 {
     font-size: 60px;
